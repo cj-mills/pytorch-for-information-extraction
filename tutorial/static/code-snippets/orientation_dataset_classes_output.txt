@@ -1,2 +1,0 @@
-Number of classes: 4
-Classes: ['090', '180', '270', '360']

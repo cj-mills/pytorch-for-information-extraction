@@ -1,1 +1,0 @@
-aligned_student_id.save('images/aligned_image.jpg')

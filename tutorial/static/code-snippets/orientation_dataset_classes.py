@@ -1,1 +1,0 @@
-print('Number of classes: {}\nClasses: {}'.format(num_orientation_classes, orientation_classes))
